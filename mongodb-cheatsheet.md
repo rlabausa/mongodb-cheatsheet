@@ -3,7 +3,7 @@
 - mongo Shell Quick Reference: https://docs.mongodb.com/manual/reference/mongo-shell/
 
 # Ubuntu
-### Terminal Commands
+## Terminal Commands
 ```Bash
 # start MongoDB
 sudo systemctl start mongod
